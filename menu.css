@@ -238,3 +238,9 @@ body.hasActiveMenu {
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
 }
+.clientButtonClose {
+    color: red;
+}
+.clientButtonOpen {
+    color: blue;
+}
